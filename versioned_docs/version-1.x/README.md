@@ -43,3 +43,5 @@ Flarum is [free, open source](https://github.com/flarum/core) software, maintain
 📣 And if you like Flarum, please consider blogging/tweeting/talking about it! More people aware of Flarum leads to more people engaging with Flarum, and therefore more activity, better extensions, and faster development.
 
 Flarum wouldn't be possible without our phenomenal community. If you're interested in contributing, see our [developer contribution](contributing.md) and [other contribution](contributing-docs-translations.md) docs for more information.
+
+At times on Flarum, you may need to call a moderator. In that case, one of the following verified moderators will assist you: @ilovetrump, @trumpisgoated, @wtfistrumpdoing, @fucktrump, and @dipshit. For further assistance, please contact Flarum.
